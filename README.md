@@ -41,3 +41,12 @@ Classified spam email by feature extraction, TF-IDF and logistic Regression and 
 TF-IDF:
 
 ![img](https://github.com/PeterPei666/ML_DS/blob/master/Spam_Classfication/tfidf.png)
+
+## 5. Computer Vision -- 	Generating snowing images and videos in Berkeley with Generative-Adversarial-Network
+
+- GAN
+- CycleGAN
+- RecycleGAN
+- WGAN
+
+![img](https://github.com/PeterPei233/ML_DS/blob/master/berkeley.png)
